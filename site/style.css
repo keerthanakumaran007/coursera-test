@@ -7,3 +7,21 @@ header
 {
 	text-align: center;
 }
+
+@media(min-width: 1200px)
+{
+	p
+	{
+		width: 100%;
+	}
+}
+
+
+	@media(min-width: 992px) and (max-width: 1199px)
+{
+	p
+	{
+		width: 50%;
+
+	}
+}
